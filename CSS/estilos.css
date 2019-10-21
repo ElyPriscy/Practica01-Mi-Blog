@@ -1,0 +1,34 @@
+
+body {
+    background: burlywood;
+    }
+
+h1 {
+    color: hsl(0, 95%, 32%);
+    text-align-last: center;
+    font-family: 'Times New Roman';
+}
+
+p {
+    color: #06064d !important ;
+    padding: 8px;
+    font-family: 'Times New Roman';
+    text-align-last: auto;
+}
+
+footer{
+    background: silver;
+    text-align: center;
+    font-size: 12px;
+}
+
+header { 
+    background: grey;
+    padding: 10px;
+}
+
+.t 
+{
+    border="2px"
+}
+
