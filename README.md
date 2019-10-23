@@ -149,10 +149,10 @@ f.	En el informe se debe incluir la información de GitHub (usuario y URL del re
 g.	En el informe se debe incluir la firma digital del estudiante. 
 6.      En el archivo README del repositorio debe constar la misma información del informe de resultados de la práctica que se indica en el siguiente punto. 
  
-RESULTADO(S) OBTENIDO(S): 
+# RESULTADO(S) OBTENIDO(S): 
 • 	Tener el conocimiento suficiente para que el estudiante pueda entender y organizar de una mejor manera los sitios de web y de negocios en Internet 
  
-CONCLUSIONES:  
+# CONCLUSIONES:  
 •	Se logró organizar un sitio web basado en lenguaje de etiquetado HTML.
 •	Se aprendió a usar de manera correcta cada etiqueta para una estructura HTML.
 •	Se aprendió a reconocer y corregir errores desde la validación de las paginas en W3C Validator.
@@ -160,7 +160,7 @@ CONCLUSIONES:
 •	Así mismo se aprendió a como editar el archivo README en github.  
  
  
-RECOMENDACIONES:  
+# RECOMENDACIONES:  
 	• 	Probar la solución de la práctica en al menos tres navegadores web; Google Chrome, Firefox y Safari 
 
  
